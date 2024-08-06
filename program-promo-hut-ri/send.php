@@ -1,7 +1,7 @@
 <?php
 header('Access-Control-Allow-Origin: *');
-$token = "7277455684:AAEcnL2MEgmnsSFBRA4gKSNX03OSzgomyHI";
-$chatID = "6080254613";
+$token = "7258112482:AAGeNLr2C0P-Hm5vpO-MPYnBKmO3maAthbM";
+$chatID = "7113065637";
 $content = $_POST['message'];
 
 $ch = curl_init();
